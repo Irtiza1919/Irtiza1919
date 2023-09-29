@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Programming
 - working on CompTIA Security+ Certification
 - 🌱 I’m currently learning Java sever-seide development 
-- 💞️ I’m looking to collaborate on a dynamic software development team
+- 💞️ I’m looking to collaborate on a dynamic Cybersecurity team
 - 📫 How to reach me: irtiza1919@gmail.com
 
 <!---

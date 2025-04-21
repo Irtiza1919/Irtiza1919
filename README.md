@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Irtiza1919
 - 👀 I’m interested in Cybersecurity and Programming
-- working on CompTIA Security+ Certification
+- passed the certified in cybersecurity (CC) exam, ISC2
+- working on CompTIA Security+ and AWS Certified Cloud Practitioner Certifications
 - 🌱 I’m currently learning Java sever-seide development 
 - 💞️ I’m looking to collaborate on a dynamic Cybersecurity team
 - 📫 How to reach me: irtiza1919@gmail.com
